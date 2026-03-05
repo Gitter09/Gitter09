@@ -1,119 +1,73 @@
-# Harshit Singh
+# Hi, I'm Harshit 👋
 
-### IC-style decision analysis under incomplete information  
-**Risk-first thinking • Capital protection over precision**
+Third-year engineering student at BITS Pilani (Mechanical Engineering + 
+Finance Minor). I build things, think commercially, and operate equally well under ambiguity as under instruction (maybe better when given creative freedom).
 
----
-
-## What I Do
-
-I build **investment committee–grade work products** that mirror how real decisions are made **before certainty exists**.
-
-My work is not optimized for:
-- Academic grading  
-- Resume keyword matching  
-- Model-driven false precision  
-
-It is optimized for:
-- Decision quality under uncertainty  
-- Explicit risk framing  
-- Capital protection and execution discipline  
-
-If a number is not publicly disclosed, I do **not** invent it.  
-If a risk cannot be sized, I **surface it, bound it, and gate decisions around it**.
+My background is an unusual combination: I can read a P&L, model unit economics, and ship a working software product without writing a line of code. Most people pick one of those. I'm trying to be useful across all three.
 
 ---
 
-## What This Repository Represents
+## What I'm Working On
 
-This GitHub profile is a **proof-of-work substitute** for:
+### 📬 Personal Email CRM
+*Vite + React + SQLite — AI-native development*
 
-- Live deal exposure  
-- Investment committee rooms  
-- Diligence reps  
-- MBA / CFA signaling  
+Built because my Streak free trial expired and I refused to pay for features I knew I could build myself. Local-first architecture — deliberate choice to eliminate server costs and keep full user control. No hand-written code; built entirely using agentic AI development (Google Antigravity + Gemini Pro).
 
-Everything here is written **as if it were going to be challenged by a partner**.
+The interesting part wasn't the build — it was the scoping decisions. I cut a planned AI-feature layer from v0.1 to ship faster. That 
+trade-off taught me more about product thinking than anything I've read about it.
 
----
-
-## How I Think (Non-Negotiables)
-
-- **Judgment > models**  
-- **Risk before return**  
-- **Execution before upside**  
-- **Disclosure gaps are analytically meaningful**  
-- **False precision is worse than acknowledged uncertainty**
-
-I treat missing information as a **decision variable**, not an inconvenience.
+**Status:** Shipping v0.1
 
 ---
 
-## What You’ll Find Here
+## What Else Lives Here
 
-### 🧠 IC-Style Memos  
-- Written as internal investment committee documents  
-- Grounded strictly in public disclosures  
-- Explicit about what is *known*, *unknown*, and *why that matters*  
+### 📊 Financial Engineering & Valuation Workbench
+*Python, Flask, Plotly.js*
 
-### 🧭 Project Charters  
-- Governing constraints that define:
-  - Scope  
-  - Methodology  
-  - Non-assumptions  
-- Designed to eliminate hindsight bias and interpretation drift  
+My personal website — a suite of institutional-grade financial modeling tools I built to practice thinking through investment decisions the way real deal teams do. Includes a Heston stochastic volatility engine, pairs trading cointegration lab, LBO/reverse-LBO solver, and portfolio optimizer built on MPT.
 
-### 🧾 Context Capsules  
-- Artifact-specific lenses that explain:
-  - Intent  
-  - Boundaries  
-  - Evaluation standards  
-- Ensures the work is judged **as intended**, not as projected  
+The finance tools are not the point anymore. What they represent is: I can identify a complex problem, figure out what needs to be built, and ship something that actually works — without a team, without a brief, and without formal training in the domain.
+
+**Live:** [harshit-portfolio.me](https://www.harshit-portfolio.me)
 
 ---
 
-## What This Is *Not*
+### 🧠 Investment Research — Proof of Work
+*IC-style memos grounded strictly in public disclosures*
 
-- ❌ A valuation pitch deck  
-- ❌ A forecasting exercise  
-- ❌ A post-dataroom underwriting model  
-- ❌ A management-backed narrative  
+Three institutional-grade investment memos: Netflix/WBD M&A ($82.7B EV model), GE Aerospace LBO (22.4% IRR, 2.8x MOIC), and a Spotify short thesis built around an LTV/CAC inversion I identified (0.91x on paid net adds).
 
-This is **pre-diligence decision framing** — the part most people skip and most capital losses originate from.
+These aren't finance content anymore — they're evidence of a specific kind of thinking: structured analysis under incomplete information, explicit risk framing, and the ability to build a coherent narrative from raw data. That transfers directly to product and strategy work.
 
 ---
 
-## Who This Is For
+## How I Actually Work
 
-This work is written for people who ask:
+I don't wait for a perfect brief. I figure out what the problem is, build a framework around it, and move.
 
-- *“What breaks first?”*  
-- *“Where are we blind?”*  
-- *“What do we need to know before we size this?”*  
-- *“What conditions would make this un-investable?”*
+At Apna, I cold-pitched my way into a strategy role at a national case competition — no job posting, no recruiter. Then I owned market 
+entry research for their EdTech vertical and identified a $2M opportunity across Tier-2 cities.
 
-If you optimize for certainty, speed, or optics — this is not for you.
+At BITS, I managed a ₹1.2 Crore budget for India's largest student sports festival and resolved a 1,000-person accommodation crisis at 
+2 AM through stakeholder negotiation.
 
----
-
-## Why I Publish This Publicly
-
-Because real decision-making skill is:
-- Observable  
-- Auditable  
-- Portable  
-
-If my thinking holds up **without credentials**, it will hold up with them.
+I mention these not to pad a profile but because they're the same skill as building software: identify the constraint, find the path through, execute.
 
 ---
 
-## Contact / Context
+## What I'm Looking For
 
-If you are reviewing this in a hiring or diligence context,  
-start with the **README**, then the **project charter**, then the **final artifact**.
+Product internships and founder's office roles at seed-to-Series B startups — Summer + Fall 2026. Preferably somewhere that moves fast, 
+gives real ownership, and where month three looks different from month one.
 
-That ordering is intentional.
+If you're building something and want someone who thinks commercially before they think about features — I'd love to talk.
+
+📎 [harshit-portfolio.me](https://www.harshit-portfolio.me)  
+💼 [LinkedIn](https://linkedin.com/in/harshit-singh-bits/)  
+📧 harshit.singh.work@outlook.com
 
 ---
 
-*This repository reflects how I think when accountability is real and information is incomplete.*
+*BITS Pilani · Mechanical Engineering + Finance Minor · Expected May 2027*
