@@ -67,7 +67,7 @@ If you're building something and want someone who thinks commercially before the
 📎 [harshit-portfolio.me](https://www.harshit-portfolio.me)
 💼 [LinkedIn](https://linkedin.com/in/harshit-singh-bits/)  
 📧 harshit.singh.work@outlook.com
-[JobDex](https://www.jobdex.tech)
+
 ---
 
 *BITS Pilani · Mechanical Engineering + Finance Minor · Expected May 2027*
