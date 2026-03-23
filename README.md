@@ -64,10 +64,10 @@ gives real ownership, and where month three looks different from month one.
 
 If you're building something and want someone who thinks commercially before they think about features — I'd love to talk.
 
-📎 [harshit-portfolio.me](https://www.harshit-portfolio.me)  
+📎 [harshit-portfolio.me](https://www.harshit-portfolio.me)
 💼 [LinkedIn](https://linkedin.com/in/harshit-singh-bits/)  
 📧 harshit.singh.work@outlook.com
-
+[JobDex](https://jobdex.tech)
 ---
 
 *BITS Pilani · Mechanical Engineering + Finance Minor · Expected May 2027*
