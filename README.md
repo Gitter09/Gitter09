@@ -9,7 +9,7 @@ My background is an unusual combination: I can read a P&L, model unit economics,
 
 ## What I'm Working On
 
-### 📬 Personal Email CRM
+### 📬 [Personal Email CRM](https://www.jobdex.tech)
 *Vite + React + SQLite — AI-native development*
 
 Built because my Streak free trial expired and I refused to pay for features I knew I could build myself. Local-first architecture — deliberate choice to eliminate server costs and keep full user control. No hand-written code; built entirely using agentic AI development (Google Antigravity + Gemini Pro).
@@ -65,7 +65,7 @@ gives real ownership, and where month three looks different from month one.
 If you're building something and want someone who thinks commercially before they think about features — I'd love to talk.
 
 📎 [harshit-portfolio.me](https://www.harshit-portfolio.me)
-💼 [LinkedIn](https://linkedin.com/in/harshit-singh-bits/)  
+💼 [LinkedIn](https://linkedin.com/in/harshit-singh-bits/)
 📧 harshit.singh.work@outlook.com
 
 ---
