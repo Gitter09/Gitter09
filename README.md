@@ -2,7 +2,7 @@
 
 Final-year engineering student at BITS Pilani, studying Mechanical Engineering with a minor in Finance.
 
-Most of my work involves building software for industrial systems, understanding what users need, and getting software into their hands.
+Most of my work involves building software for industrial systems, understanding what users need, and getting software running & maintaining it. I'm experimenting with robotics & more hardware projects.
 
 ## Current work
 
