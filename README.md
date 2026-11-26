@@ -1,73 +1,53 @@
-# Hi, I'm Harshit 👋
+# Hi, I'm Harshit.
 
-Third-year engineering student at BITS Pilani (Mechanical Engineering + 
-Finance Minor). I build things, think commercially, and operate equally well under ambiguity as under instruction (maybe better when given creative freedom).
+Final-year engineering student at BITS Pilani, studying Mechanical Engineering with a minor in Finance.
 
-My background is an unusual combination: I can read a P&L, model unit economics, and ship a working software product without writing a line of code. Most people pick one of those. I'm trying to be useful across all three.
+Most of my work involves building software for industrial systems, understanding what users need, and getting software into their hands.
 
----
+## Current work
 
-## What I'm Working On
+### [Jouleless](https://jouleless.com) — Founding Forward Deployed Engineer
 
-### 📬 [Personal Email CRM](https://www.jobdex.tech)
-*Vite + React + SQLite — AI-native development*
+I own software delivery, from cloud data ingestion and processing to dashboards, alerts and reporting.
 
-Built because my Streak free trial expired and I refused to pay for features I knew I could build myself. Local-first architecture — deliberate choice to eliminate server costs and keep full user control. No hand-written code; built entirely using agentic AI development (Google Antigravity + Gemini Pro).
+- Replaced manual Excel reporting at a vertical farm with live telemetry and alerts, saving the owners 1–2 hours a day.
+- Built a Raspberry Pi-based pipeline to bring data from a third-party HVAC system into our dashboard.
+- Built a dashboard for a carbon credit client to process biochar temperature data and analyse it across production runs.
 
-The interesting part wasn't the build — it was the scoping decisions. I cut a planned AI-feature layer from v0.1 to ship faster. That 
-trade-off taught me more about product thinking than anything I've read about it.
+### Smart Manufacturing Competency Centre (SMCC)
 
-**Status:** Shipping v0.1
+I work on machine vision and industrial robotics.
 
----
+- Rebuilt a legacy LabVIEW vision pipeline in Python, improving detection accuracy from around 85% to 99% and reducing inspection latency from 13–15 seconds to 3–5 seconds.
+- Rebuilt a portable PCB inspection system running on a SiMa Modalix accelerator, increasing inspection throughput from 1.65 to 15.95 inspections per second.
 
-## What Else Lives Here
+I've written about the portable inspection system, including the architecture, accelerator debugging, performance improvements and evaluation limitations.
 
-### 📊 Financial Engineering & Valuation Workbench
-*Python, Flask, Plotly.js*
+[Read the technical write-up](https://www.harshit-portfolio.me/work/portable-machine-vision/)
 
-My personal website — a suite of institutional-grade financial modeling tools I built to practice thinking through investment decisions the way real deal teams do. Includes a Heston stochastic volatility engine, pairs trading cointegration lab, LBO/reverse-LBO solver, and portfolio optimizer built on MPT.
+The repositories for my professional work are private. I'm happy to discuss the implementation and share relevant details on request, where permitted.
 
-The finance tools are not the point anymore. What they represent is: I can identify a complex problem, figure out what needs to be built, and ship something that actually works — without a team, without a brief, and without formal training in the domain.
+## Independent projects
 
-**Live:** [harshit-portfolio.me](https://www.harshit-portfolio.me)
+### [JobDex](https://jobdex.tech)
 
----
+A local-first CRM I built to manage my job search, contacts, emails and follow-ups. It also exposes REST and MCP interfaces for AI agents.
 
-### 🧠 Investment Research — Proof of Work
-*IC-style memos grounded strictly in public disclosures*
+Built with React, Vite and SQLite.
 
-Three institutional-grade investment memos: Netflix/WBD M&A ($82.7B EV model), GE Aerospace LBO (22.4% IRR, 2.8x MOIC), and a Spotify short thesis built around an LTV/CAC inversion I identified (0.91x on paid net adds).
+## Earlier work
 
-These aren't finance content anymore — they're evidence of a specific kind of thinking: structured analysis under incomplete information, explicit risk framing, and the ability to build a coherent narrative from raw data. That transfers directly to product and strategy work.
+Before working on industrial software, I spent time building financial modelling tools and writing investment research.
 
----
+- **Financial engineering:** stochastic volatility modelling, pairs trading, LBO modelling and portfolio optimisation.
+- **Investment research:** investment memos and valuation models covering Netflix/WBD, GE Aerospace and Spotify.
 
-## How I Actually Work
+## How I build
 
-I don't wait for a perfect brief. I figure out what the problem is, build a framework around it, and move.
+My development workflow relies heavily on coding agents. I define requirements, make architecture and product decisions, and validate implementations primarily through end-to-end testing. I modify code directly where needed.
 
-At Apna, I cold-pitched my way into a strategy role at a national case competition — no job posting, no recruiter. Then I owned market 
-entry research for their EdTech vertical and identified a $2M opportunity across Tier-2 cities.
+## Elsewhere
 
-At BITS, I managed a ₹1.2 Crore budget for India's largest student sports festival and resolved a 1,000-person accommodation crisis at 
-2 AM through stakeholder negotiation.
+Currently open to full-time roles in forward deployed engineering and AI product management.
 
-I mention these not to pad a profile but because they're the same skill as building software: identify the constraint, find the path through, execute.
-
----
-
-## What I'm Looking For
-
-Product internships and founder's office roles at seed-to-Series B startups — Summer + Fall 2026. Preferably somewhere that moves fast, 
-gives real ownership, and where month three looks different from month one.
-
-If you're building something and want someone who thinks commercially before they think about features — I'd love to talk.
-
-📎 [harshit-portfolio.me](https://www.harshit-portfolio.me)
-💼 [LinkedIn](https://linkedin.com/in/harshit-singh-bits/)
-📧 harshit.singh.work@outlook.com
-
----
-
-*BITS Pilani · Mechanical Engineering + Finance Minor · Expected May 2027*
+[Portfolio](https://hxrshit.dev) · [LinkedIn](https://linkedin.com/in/harshit-singh-bits/) · [Email](mailto:harshit.singh.work@outlook.com)
